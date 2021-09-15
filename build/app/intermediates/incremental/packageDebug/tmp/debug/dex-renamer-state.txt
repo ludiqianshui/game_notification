@@ -1,0 +1,4 @@
+#Tue Sep 14 17:46:54 CEST 2021
+base.0=/Users/songqiguang/QProject/Flutter/game_notification/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
